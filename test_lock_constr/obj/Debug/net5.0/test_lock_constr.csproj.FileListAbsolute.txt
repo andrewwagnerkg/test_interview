@@ -1,0 +1,16 @@
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.exe
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.deps.json
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.runtimeconfig.json
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.runtimeconfig.dev.json
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.dll
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\ref\test_lock_constr.dll
+D:\myProjects\test_lock_constr\test_lock_constr\bin\Debug\net5.0\test_lock_constr.pdb
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.csproj.AssemblyReference.cache
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.GeneratedMSBuildEditorConfig.editorconfig
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.AssemblyInfoInputs.cache
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.AssemblyInfo.cs
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.csproj.CoreCompileInputs.cache
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.dll
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\ref\test_lock_constr.dll
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.pdb
+D:\myProjects\test_lock_constr\test_lock_constr\obj\Debug\net5.0\test_lock_constr.genruntimeconfig.cache
